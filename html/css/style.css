@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'MeQuran2';
+    src: url('https://cdn.alquran.cloud/public/fonts/me_quran_2.ttf');
+  }
+  
+  .font-mequran2 {
+      font-family: 'MeQuran2';
+  }
+
+  .align-center {
+      text-align: center;
+  }
