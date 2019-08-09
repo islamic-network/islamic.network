@@ -1,0 +1,13 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: Services
+  link: /services.html
+- name: Contribute
+  link: /contriubte.html
+- name: Contact
+  link: /contact.html
+- name: Status
+  link: https://status.islamic.network
+  window: true

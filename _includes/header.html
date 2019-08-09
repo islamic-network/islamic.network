@@ -1,0 +1,32 @@
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="title" content="{{ page.title }} - Docker Stack Deploy" />
+    <meta name="description" content="{{ page.metaDescription }}" />
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://bootswatch.com/4/litera/bootstrap.min.css" crossorigin="anonymous">
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <title>{{ page.title }}</title>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#"><img height="20" src="/assets/images/logo.jpg" alt="logo"  title="Islamic Network"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarX" aria-controls="navbarX" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarX">
+        <ul class="navbar-nav mr-auto">
+          {% for item in site.data.navigation %}
+          <li class="nav-item {% if page.url == item.link %}active{% endif %}">
+            <a class ="nav-link" href="{{ item.link }}" {% if item.window == new %}target="_blank"{% endif %}>
+              {{ item.name }}
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+    </div>
+</nav>
