@@ -15,7 +15,7 @@ metaDescription: Applications, APIs and Hosting for Islamic Applications
 <br />
 <h1>Islamic Network</h1>
 <h3>
-A network of free digital Islamic Services 
+A network of free digital Islamic services 
 </h3>
 <p>
 We hope that providing these services will, first and foremost, be pleasing to our Lord.
