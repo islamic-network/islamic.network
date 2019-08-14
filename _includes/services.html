@@ -1,0 +1,13 @@
+{% for item in site.data.services %}
+<div class="row">
+    <div class="col-sm-5">
+      <img src="/assets/images/services/{{ item.image }}" width="400" alt="{{ item.name }}" title="{{ item.name }}"/>
+    </div>
+    <div class="col-sm-7">
+      <h3>{{ item.name }}</h3>
+      <p>{{ item.description }}</p>
+      <p>&rarr; <a href="{{ item.link }}" target="_blank">Visit {{ item.name }}</a></p>
+    </div>
+</div>
+<hr />
+{% endfor %}

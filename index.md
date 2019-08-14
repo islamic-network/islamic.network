@@ -37,7 +37,7 @@ May Allah Most High accept it and may He always guide us to His Truth.
 <h2>Our Services</h2>
 <p>Learn about the technology services, projects, applications and APIs maintained by Islamic Network.</p>
 <br />
-<p><a class="btn btn-success" href="#" role="button">View details »</a></p>
+<p><a class="btn btn-success" href="/services.html" role="button">View details »</a></p>
 </div>
 <div class="col-md-4">
 <h2>Islamic Projects</h2>
@@ -47,7 +47,7 @@ May Allah Most High accept it and may He always guide us to His Truth.
 <div class="col-md-4">
 <h2>Get Involved</h2>
 <p>There are many ways to get involved with and support the work we do - from contributing code to helping maintain infrastructure and more.</p>
-<p><a class="btn btn-success" href="#" role="button">View details »</a></p>
+<p><a class="btn btn-success" href="/contribute.html" role="button">View details »</a></p>
 </div>
 </div>
 

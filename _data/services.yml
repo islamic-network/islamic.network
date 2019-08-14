@@ -1,0 +1,12 @@
+- name: AlAdhan.com
+  image: aladhan.jpg
+  description: AlAdhan
+  link: https://aladhan.com
+- name: AlQuran.cloud
+  image: alquran.jpg
+  description: AlQuran
+  link: https://alquran.cloud
+- name: Masjid Project
+  image: mp.jpg
+  description: Masjid Project
+  link: https://masjidproject.org

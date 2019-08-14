@@ -5,9 +5,12 @@
 - name: Services
   link: /services.html
 - name: Contribute
-  link: /contriubte.html
+  link: /contribute.html
 - name: Contact
   link: /contact.html
-- name: Status
+- name: <i class="fas fa-wifi"></i> Status
   link: https://status.islamic.network
-  window: true
+  window: new
+- name: <i class="fab fa-github"></i> Open Source
+  link: https://github.com/islamic-network
+  window: new
