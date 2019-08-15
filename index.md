@@ -34,12 +34,12 @@ May Allah Most High accept it and may He always guide us to His Truth.
 
 <div class="row">
     <div class="col-sm-6">
-        <h2>Our Services</h2>
+        <h3>Our Services</h3>
         <p>Learn about the technology services, projects, applications and APIs maintained by Islamic Network.</p>
         <p><a class="btn btn-success" href="/services.html" role="button">View Services »</a></p>
     </div>
     <div class="col-sm-6">
-        <h2>Get Involved</h2>
+        <h3>Get Involved</h3>
         <p>There are many ways to get involved with and support the work we do - from contributing code to helping maintain infrastructure and more.</p>
         <p><a class="btn btn-success" href="/contribute.html" role="button">Get Involved »</a></p>
     </div>
