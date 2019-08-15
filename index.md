@@ -33,22 +33,16 @@ May Allah Most High accept it and may He always guide us to His Truth.
 <hr />
 
 <div class="row">
-<div class="col-md-4">
-<h2>Our Services</h2>
-<p>Learn about the technology services, projects, applications and APIs maintained by Islamic Network.</p>
-<br />
-<p><a class="btn btn-success" href="/services.html" role="button">View details »</a></p>
-</div>
-<div class="col-md-4">
-<h2>Islamic Projects</h2>
-<p>We operate our own technology infrastructure in the cloud to provide our services and can also help you leverage that for other projects of benefit to the Islamic world.</p>
-<p><a class="btn btn-success" href="#" role="button">View details »</a></p>
-</div>
-<div class="col-md-4">
-<h2>Get Involved</h2>
-<p>There are many ways to get involved with and support the work we do - from contributing code to helping maintain infrastructure and more.</p>
-<p><a class="btn btn-success" href="/contribute.html" role="button">View details »</a></p>
-</div>
+    <div class="col-sm-6">
+        <h2>Our Services</h2>
+        <p>Learn about the technology services, projects, applications and APIs maintained by Islamic Network.</p>
+        <p><a class="btn btn-success" href="/services.html" role="button">View Services »</a></p>
+    </div>
+    <div class="col-sm-6">
+        <h2>Get Involved</h2>
+        <p>There are many ways to get involved with and support the work we do - from contributing code to helping maintain infrastructure and more.</p>
+        <p><a class="btn btn-success" href="/contribute.html" role="button">Get Involved »</a></p>
+    </div>
 </div>
 
 <hr />
