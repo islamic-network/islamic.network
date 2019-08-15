@@ -20,13 +20,22 @@
 
     <div class="collapse navbar-collapse" id="navbarX">
         <ul class="navbar-nav mr-auto">
-          {% for item in site.data.navigation %}
+          {% for item in site.data.navigation-left %}
           <li class="nav-item {% if page.url == item.link %}active{% endif %}">
             <a class ="nav-link" href="{{ item.link }}" {% if item.window == "new" %}target="_blank"{% endif %}>
               {{ item.name }}
             </a>
           </li>
           {% endfor %}
+        </ul>
+        <ul class="navbar-nav ml-auto">
+            {% for item in site.data.navigation-right %}
+            <li class="nav-item {% if page.url == item.link %}active{% endif %}">
+                <a class ="nav-link" href="{{ item.link }}" {% if item.window == "new" %}target="_blank"{% endif %}>
+                {{ item.name }}
+                </a>
+            </li>
+            {% endfor %}
         </ul>
     </div>
 </nav>

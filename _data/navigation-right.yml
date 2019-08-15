@@ -1,13 +1,3 @@
-- name: Home
-  link: /
-- name: About
-  link: /about.html
-- name: Services
-  link: /services.html
-- name: Contribute
-  link: /contribute.html
-- name: Contact
-  link: /contact.html
 - name: <i class="fas fa-wifi"></i> Status
   link: https://status.islamic.network
   window: new
