@@ -1,8 +1,21 @@
 <footer class="footer">
     <div class="container">
         <div class="row">
-            <div class="col-sm-12">
+            <div class="col-sm-5">
                 <p>&copy; Islamic Network 2013-2019.</p>
+            </div>
+            <div class="col-sm-7">
+                <nav class="navbar navbar-expand-lg navbar-light" style="padding: 0; margin: -5px;">
+                    <ul class="navbar-nav ml-auto">
+                        {% for item in site.data.navigation-footer %}
+                        <li class="nav-item {% if page.url == item.link %}active{% endif %}">
+                            <a class ="nav-link" href="{{ item.link }}" {% if item.window == "new" %}target="_blank"{% endif %}>
+                            {{ item.name }}
+                            </a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </nav>
             </div>
         </div>
     </div>
