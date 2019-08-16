@@ -43,6 +43,8 @@ organisations behind them who have in some way contributed.
 * Media Elements JS
 * Monolog
 * Uptime Robot
+* Let's Encrypt
+* HA Proxy
 
 
 
