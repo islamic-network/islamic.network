@@ -1,12 +1,12 @@
 - name: AlAdhan.com
   image: aladhan.jpg
-  description: AlAdhan
+  description: AlAdhan.com is a Prayer Times and Hijri Calendar Web Application and API. | It is fully dockerised and the source code is available on GitHub @ <a href="https://github.com/islamic-network" target="_blank">https://github.com/islamic-network</a>. It is used by thousands of people serves upto 15 million requests a day.
   link: https://aladhan.com
 - name: AlQuran.cloud
   image: alquran.jpg
-  description: AlQuran
+  description: AlQuran.cloud is Quran Web Application, API and CDN making the text and recitations of the Qur'an available in various languages. It is fully dockerised and the source code is available on GitHub @ <a href="https://github.com/islamic-network" target="_blank">https://github.com/islamic-network</a>.
   link: https://alquran.cloud
 - name: Masjid Project
   image: mp.jpg
-  description: Masjid Project
+  description: The Masjid Project is a WordPress based platform offering free, fully user-managed websites for Mosques around the world. It is used by almost 100 mosques around the world.
   link: https://masjidproject.org

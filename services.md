@@ -9,7 +9,7 @@ metaDescription: Web Applications and Services offered by Islamic Network
     <h1>Services</h1>
     <p>
         We currently provide the following online services in addition to the resources 
-        available on GitHub @ <a href="https://github.com/islamic-network" target="_blank">https://github.com/islamic-network</a>a>.
+        available on GitHub @ <a href="https://github.com/islamic-network" target="_blank">https://github.com/islamic-network</a>.
     </p>
     </div>
 </div>
