@@ -1,6 +1,6 @@
 - name: AlAdhan.com
   image: aladhan.jpg
-  description: AlAdhan.com is a Prayer Times and Hijri Calendar Web Application and API. | It is fully dockerised and the source code is available on GitHub @ <a href="https://github.com/islamic-network" target="_blank">https://github.com/islamic-network</a>. It is used by thousands of people serves upto 15 million requests a day.
+  description: AlAdhan.com is a Prayer Times and Hijri Calendar Web Application and API. It is fully dockerised and the source code is available on GitHub @ <a href="https://github.com/islamic-network" target="_blank">https://github.com/islamic-network</a>. It is used by thousands of people serves upto 15 million requests a day.
   link: https://aladhan.com
 - name: AlQuran.cloud
   image: alquran.jpg
