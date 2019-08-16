@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Islamic Network - Free Digitial Services for the Islamic World
+title: Islamic Network - Free Digital Services for the Islamic World
 metaDescription: Applications, APIs and Hosting for Islamic Applications
 ---
 
