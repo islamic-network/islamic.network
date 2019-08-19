@@ -8,6 +8,6 @@ metaDescription:  simple
 
 All services offered by Islamic Network are subject to the following:
 
-Akk websites, applications, services and APIs are made available in the hope that 
+All websites, applications, services and APIs are made available in the hope that 
 they will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of 
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
