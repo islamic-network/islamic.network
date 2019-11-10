@@ -22,7 +22,7 @@ We hope that providing these services will, first and foremost, be pleasing to o
 </p>
 <p>
 We hope that these can provide a reminder of what is really important in this technology 
-obsessed world - a way to remind us to connect with the Real.
+obsessed world - to connect with the Real.
 </p>
 <p>
 May Allah Most High accept it and may He always guide us to His Truth.
