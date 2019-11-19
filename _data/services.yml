@@ -10,3 +10,7 @@
   image: mp.jpg
   description: The Masjid Project is a WordPress based platform offering free, fully user-managed websites for Mosques around the world. It is used by almost 100 mosques around the world.
   link: https://masjidproject.org
+- name: Marifa.org
+  image: marifa.png
+  description: A simple web app that shows metaphysical truths and quotations from saints across Dar al Islam.
+  link: https://marifa.org
