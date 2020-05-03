@@ -18,5 +18,6 @@ Islamic Network provides free digital servcies and maintains several open source
 
 ## Supporters via Patreon and PayPal
 * Zakaria Kerkeb
+* Saiful Abdul Aziz
 * Walid Aredjal
 * Sarkar Anwar
