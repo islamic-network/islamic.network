@@ -13,6 +13,7 @@ Islamic Network provides free digital servcies and maintains several open source
 * Faisal Qureshi, Hourglass Software Inc.
 * Hayat El Ali
 * Waseem Chehab
+* Muhammad Khan
 * Hisham Khalifa
 * Mushirali Palasara, Skills Infinite
 
