@@ -22,3 +22,4 @@ Islamic Network provides free digital servcies and maintains several open source
 * Saiful Abdul Aziz
 * Walid Aredjal
 * Sarkar Anwar
+* Usman Razaq
