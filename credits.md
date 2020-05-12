@@ -45,6 +45,7 @@ organisations behind them who have in some way contributed.
 * Uptime Robot
 * Let's Encrypt
 * HA Proxy
+* Kong API Gateway
 
 
 
