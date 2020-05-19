@@ -36,6 +36,7 @@ organisations behind them who have in some way contributed.
 * PrayTimes (Hamid Zarrabi-Zadeh)
 * GlobalQuran.com
 * Tanzil.net
+* Quranwbw.com
 * Discord
 * Memcached
 * GitHub (for the free repositories and GitHub Pages)
