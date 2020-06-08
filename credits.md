@@ -47,6 +47,7 @@ organisations behind them who have in some way contributed.
 * Let's Encrypt
 * HA Proxy
 * Kong API Gateway
+* Jet Brains (for a free Open Source Software License)
 
 
 
