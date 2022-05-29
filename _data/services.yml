@@ -6,10 +6,10 @@
   image: alquran.jpg
   description: AlQuran.cloud is Quran Web Application, API and CDN making the text and recitations of the blessed Qur'an available in various languages. It is fully dockerised and the source code is available on GitHub @ <a href="https://github.com/islamic-network" target="_blank">https://github.com/islamic-network</a>.
   link: https://alquran.cloud
-#- name: Masjid Project
-#  image: mp.jpg
-#  description: The Masjid Project is a WordPress based platform offering free, fully user-managed websites for Mosques around the world. It is used by almost 100 mosques around the world.
-#  link: https://masjidproject.org
+- name: Islamic Network CDN
+  image: mp.jpg
+  description: The Islamic CDN provides Quran and other Islamic media for streaming and currently serves upto 20 TB of traffic a month. If there is content you would like to make available via the CDN, please get in touch.
+  link: https://alquran.cloud/cdn
 - name: Marifa.org
   image: marifa.png
   description: A simple web app that shows metaphysical truths and quotations from saints across Dar al Islam.
