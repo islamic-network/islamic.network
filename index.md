@@ -5,12 +5,12 @@ metaDescription: Applications, APIs and Hosting for Islamic Applications
 ---
 
 <div class="row">
-<div class="col-md-5 pt-3">
+<div class="col-md-4 pt-3">
 <p>
-<img src="/assets/images/logo.jpg" alt="Islamic Network" title="Islamic Network" height="250">
+<img src="/assets/images/logo.png" alt="Islamic Network" title="Islamic Network" height="350">
 </p>
 </div>
-<div class="col-md-7 pt-3">
+<div class="col-md-8 pt-3">
 <h2 class="font-mequran2 align-center">بِسْمِ ٱللّٰهِ ٱلرَّحْمٰنِ ٱلرَّحِيْمِ</h2>
 <br />
 <h1>Islamic Network</h1>
