@@ -14,7 +14,7 @@ Thereafter, we must thank the Prophet's Companions (Abu Bakr as-Siddiq &#1555;
 Saints and Scholars of the Islamic world. Without their hard work and the Grace Allah &#65019; bestowed
 upon them none of this would be possible. Among these are:
 
-* Sayyadina Salmaan al-Faarsi ق
+* Sayyadina Salmaan al-Faarsi &#1555;
 * Sayyadina Owais al-Qarni ق
 * Imaam Jaafar as-Saadiq ق
 * Shaykh Tayfur Abu Yazeed al-Bistami ق
