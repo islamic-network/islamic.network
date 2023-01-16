@@ -14,3 +14,11 @@
   image: marifa.png
   description: A simple web app that shows metaphysical truths and quotations from saints across Dar al Islam.
   link: https://marifa.org
+- name: Perennialism.org
+  image: tradition.png
+  description: A simple page discussing the traditional definition of the Perennial Philosophy from the Islamic perspective.
+  link: https://perennialism.org
+- name: Sermons
+  image: khutba.jpg
+  description: An API for khutbas published by various religious authorities in the Dar al Islam.
+  link: https://sermons.islamic.network
