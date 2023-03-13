@@ -21,11 +21,15 @@ upon them none of this would be possible. Among these are:
 * Shaykh Yusuf Hamdani ق
 * Shaykh Abdul Khaliq Ghujdawani ق
 * Imaam Abu Hameed al-Ghazzali &#1554;
+* Shaykh Ahmed Yesevi ق
 * Shaykh Abdul Qadir Jilaani ق
 * Bahaauddin Shah Naqshband Muhammad al-Owaisi al-Bukhaari ق
 * Shaykh Muhiyuddin Ibn al-Aarabi ق
 * Shaykh Shihaab-ud-din Suhrawardi ق
+* Shaykh Yunus Emre ق
 * Shaykh Mawlana Jalaaluddin Rumi ق
+* Shaykh Hameed Vali ق
+* Shaykh Shamsuddin Bayaram Vali ق
 * Shaykh Ahmed al-Faruqi as-Sirhindi (Imaam Rabbani) ق
 * Shaykh Khalid al-Baghdadi ق
 * Shaykh Sadr ad-ad-din as-Shirazi ق
@@ -88,6 +92,7 @@ organisations behind them who have in some way contributed.
 * Flarum
 * The Cloud Native Computing Foundation
 * Jet Brains (for a free Open Source Software License)
+* Mamluk and 7x
 
 
 
