@@ -27,7 +27,7 @@ upon them none of this would be possible. Among these are:
 * Shaykh Muhiyuddin Ibn al-Aarabi ق
 * Shaykh Shihaab-ud-din Suhrawardi ق
 * Shaykh Yunus Emre ق
-* Shaykh Mawlana Jalaaluddin Rumi ق
+* Mawlaana Shaykh Jalaaluddin Rumi ق
 * Shaykh Hameed Vali ق
 * Shaykh Shamsuddin Bayaram Vali ق
 * Shaykh Ahmed al-Faruqi as-Sirhindi (Imaam Rabbani) ق
