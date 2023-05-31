@@ -13,3 +13,4 @@ You can:
 * Contribute code to any of the repositories on <a href="https://github.com/islamic-network" target="_blank">https://github.com/islamic-network</a>
 * Provide help with adding tashkeel / harakat to some of the Arabic text for https://alquran.cloud
 * If you're an experienced software engineer - join the <a href="https://discord.gg/FwUy69M" target="_blank">Islamic Network server on Discord</a> and help out others with technical questions
+* Become a sponsor - https://github.com/sponsors/islamic-network
