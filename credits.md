@@ -44,7 +44,7 @@ upon them none of this would be possible. Among these are:
 * Shaykh Ibrahim Burckhardt
 * Keith Critchlow
 * Shaykh Tosun Bayrak ق
-* Shaykh Hisham Kabbani
+* Shaykh Muhammad Hisham Kabbani
 * Shaykh Muhammad Aadil
 * Shaykh Bahauddin Aadil
 

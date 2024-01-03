@@ -22,3 +22,7 @@
   image: khutba.jpg
   description: An API for khutbas published by various religious authorities in the Dar al Islam.
   link: https://sermons.islamic.network
+- name: AlAqida.com
+  image: khutba.jpg
+  description: A copy of Imam Tahaawi's Aqida Tahawiyya which represents the creed of the Ahl al Sunna wa al Jama'a.
+  link: https://alaqida.com
