@@ -76,7 +76,6 @@ organisations behind them who have in some way contributed.
 * GlobalQuran.com
 * Tanzil.net
 * Quranwbw.com
-* Discord
 * Memcached
 * GitHub (for the free repositories and GitHub Pages)
 * Jekyll
